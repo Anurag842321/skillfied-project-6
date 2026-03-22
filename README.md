@@ -94,7 +94,7 @@ Incorrect memory units (M ❌ → Mi ✅)
 Not specifying namespace while checking pods
 📸 Output
 
-You can add your output screenshot here:
+output screenshot here:
 
 images/output.png
 🧠 Learning Outcomes
